@@ -1,0 +1,30 @@
+
+
+.jumbotron {
+	background-color: #A64500 !important;
+	color: #ffffff;
+	font-family: 'Bungee Shade', cursive;
+	font-size: 5em;
+	text-align: center;
+}
+
+.jumbotron:hover {
+	color: #FFC49A;
+	background-color: #ffffff;
+}
+
+#offer {
+	text-align: center;
+}
+
+#description {
+	font-family: 'Padauk', sans serif;
+	font-size: 1.5em;
+	text-align:center;
+}
+
+
+img {
+	width: 200px;
+	height: 300px;
+}
